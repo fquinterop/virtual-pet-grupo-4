@@ -83,7 +83,7 @@ OE5 – Validar y documentar los endpoints de la aplicación para asegurar su co
 |--------|---------------|----------------|
 | Yuly Marcela Sepúlveda | Líder del proyecto / Backend | @sepumarcela |
 | Mariana Rivera Perez | Frontend (React) | @MarianaRPerez8 |
-| Felipe Quintero Pulgarin | Backend / Base de datos | @fquinterop |
+| Felipe A. Quintero Pulgarin | Backend / Base de datos | @fquinterop |
 | Kevin Martinez | Integración y pruebas | @kevinM0022 |
 
 ## Diagrama de clases del Dominio (v1)
